@@ -1,0 +1,38 @@
+Swordbot Requirements
+
+A training dummy, that responds to being hit by a sword, and various games can be played with it, giving insights into fencing technique.
+
+Games for 1.0
+
+- Reaction time for cuts
+
+- Reaction time for parry-riposte
+
+- Combination scoring game, seeing how long you can keep up a pace of cuts and parries.
+
+Software:
+
+- Scripting all in Go
+
+- Data storage possibly using a PostgreSQL database for data management, possibly using MongoDB as a challenge, can decide later between the two.
+
+- Tracking project progress using git projects, and keeping code in github repository
+
+- Simple web interface for control of software
+
+Hardware:
+
+- Arduino as primary control board
+
+- Mobile phone via bluetooth to arduino as primary interface method
+
+Timeline:
+
+Three month project expected length
+
+Month one, software
+
+Month two, hardware
+
+Month three, integration and testing
+
